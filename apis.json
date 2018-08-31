@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Jumpseller",
+	"description": "This is a repository of jumpseller APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/jumpseller.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://jumpseller.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Jumpseller",
+			"x-api-slug": "jumpseller",
+			"description": "We founded Jumpseller.com in 2009 in Europe  we called it Vendder back then  and released our first version of the Jumpseller product in September 2010. After releasing the product we quickly grew to thousands of customers. In November 2010, we recei...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg",
+			"humanURL": "http://jumpseller.com",
+			"baseURL": "https://api.jumpseller.com//v1",
+			"tags": "Jumpseller",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/jumpseller/master/_listings/jumpseller/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Jumpseller",
+	"include": [
+		{
+			"name": "Jumpseller",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/jumpseller/master/_listings/jumpseller/apis.yaml"
+		}
+	]
+}
